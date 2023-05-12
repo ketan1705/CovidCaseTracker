@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid -19 Tracker</string>
+
+
+    <string name="total">Total</string>
+    <string name="active">Active</string>
+    <string name="death">Death</string>
+    <string name="recovered">Recovered</string>
+    <string name="covid19">Covid-19</string>
+    <string name="tests">Tests</string>
+    <string name="country">Country</string>
+    <string name="cases">Cases</string>
+    <string name="todo">TODO</string>
+    <string name="population">Population</string>
+    <string name="stay_home_stay_safe">Stay Home Stay Safe</string>
+
+</resources>
